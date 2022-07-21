@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.bg {
+    background-color:  crimson;
+}
+.navbar {
+    padding: 0;
+}
+.navbar-toggler:focus{
+    box-shadow: none;
+}
+.navbar-brand {
+    font-family: chiller;
+}
+@media(max-width:768px) {
+    .ul-bg {
+        background-color: coral;
+    }
+}
+
+.container p{
+	margin:30px 0px 25px;
+}
+
